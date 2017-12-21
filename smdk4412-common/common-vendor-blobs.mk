@@ -53,13 +53,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/lib/egl/libGLESv2_mali.so:system/lib/egl/libGLESv2_mali.so
 
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/proprietary/system/lib/libcec.so:system/lib/libcec.so \
-    $(LOCAL_PATH)/proprietary/system/lib/libddc.so:system/lib/libddc.so \
-    $(LOCAL_PATH)/proprietary/system/lib/libedid.so:system/lib/libedid.so \
-    $(LOCAL_PATH)/proprietary/system/lib/libfimc.so:system/lib/libfimc.so \
-    $(LOCAL_PATH)/proprietary/system/lib/libfimg.so:system/lib/libfimg.so \
-    $(LOCAL_PATH)/proprietary/system/lib/libhwconverter.so:system/lib/libhwconverter.so \
-    $(LOCAL_PATH)/proprietary/system/lib/libhwjpeg.so:system/lib/libhwjpeg.so \
     $(LOCAL_PATH)/proprietary/system/lib/libMali.so:system/lib/libMali.so \
     $(LOCAL_PATH)/proprietary/system/lib/libMcClient.so:system/lib/libMcClient.so \
     $(LOCAL_PATH)/proprietary/system/lib/libMcRegistry.so:system/lib/libMcRegistry.so \
